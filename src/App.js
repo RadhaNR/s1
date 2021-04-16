@@ -2,7 +2,7 @@
 function App() {
   return (
     <div className="App">
-      Hello React app - Modified for testing
+     Automation app
     </div>
   );
 }
